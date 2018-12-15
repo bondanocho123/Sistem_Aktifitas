@@ -18,7 +18,7 @@
             margin: 0;
             padding: 0;
             font-weight: bold;
-            margin-left: 0px;
+            margin-left: 0px; 
             font-size: 100%;
             color: black;
             }
